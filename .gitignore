@@ -10,7 +10,9 @@ lerna-debug.log*
 
 bash
 คัดลอก
-แก้ไขgit commit -m "first commit"
+แก้ไข
+.env
+node_modules/
 dist
 dist-ssr
 *.local
@@ -27,5 +29,3 @@ dist-ssr
 *.sw?
 
 *.codegpt
-
-node_modules/
